@@ -3,4 +3,5 @@ export type Package = {
   price: number;
   invoiceDate: string;
   status: string;
+  map:"function"
 };
